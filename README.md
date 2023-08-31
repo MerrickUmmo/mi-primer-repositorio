@@ -1,2 +1,2 @@
-# mi-primer-repositorio
+# HOLA
 Prueba de mi primer repositorio
